@@ -1,0 +1,29 @@
+GIT BASH COMMANDS
+
+$ ls ->LISTE DE FICHIER DANS LE DOSSIER
+
+$ git remote add origin https://github.com/username/NomdeRepository.git -> RELIER GIT LOCAL AVEC GITHUB
+
+$ git add . ->AJOUTER LES FICHIER AVANT DE COMMIT
+
+
+$ git commit -m "adding to github2" -> COMMIT ET ENREGISTERER
+
+$ git push origin master -> POUSSER LES FICHIERS SUR GITHUB
+
+$ git push origin master --force -> POUSSER LES FICHIERS SUR GITHUB PAR FORCE
+
+$ ssh-keygen -t rsa -b 4096 -C "mail_id" -> GÉNÉRER UN KEY
+
+$ ssh-add ~/.ssh/id_rsa ->AJOUTE LE KEY DANS id_rsa
+
+$ clip < ~/.ssh/id_rsa.pub ->COPIER LE KEY DANS DE FICHIER ET AJOUTE DANS GITHUB
+
+COMMANDES DE FICHIERS
+
+$ git add -p -> POUR COMPRENDRE LE PATCH OR LE CHANGE DANS LE FICHIER
+
+
+
+
+
